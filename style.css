@@ -1,0 +1,31 @@
+body {
+        background: linear-gradient(45deg,#F67280,#FFC0CB);
+
+    text-align: center;
+    border: solid;
+}
+img { margin-top: 20px;
+    height: 90px;
+}
+div {
+    border: solid 1px;
+    margin-top: 10px;
+}
+a {
+    color: white;
+}
+.div {
+    background-color: white;
+    margin-top: 20px;
+    font-size: 20px;
+    width: 100%;
+    margin-right: 30px;
+}
+.color3 {
+    color: black;
+    margin-top: 20px;
+}
+
+.color2 {
+    color: black;
+}
